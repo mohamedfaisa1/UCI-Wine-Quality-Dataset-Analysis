@@ -1,6 +1,4 @@
 ---
-title: "STSCI-4740 Final Project R Code"
-date: "2023-12-01"
 output: word_document
 ---
 
